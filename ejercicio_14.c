@@ -22,7 +22,7 @@ int main()
 	{
 		if(vector[0] != vector[i])
 		{
-			printf("Los valores del vector son difrentes\n");
+			printf("Los valores del vector son diferentes\n");
 			return 0;
 		}	
 	}
