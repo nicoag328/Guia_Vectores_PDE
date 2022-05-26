@@ -54,6 +54,8 @@ int main()
 
 	if(mayor_edad == mayor_sueldo)
 		printf("\nLa persona de mayor edad tambien tiene el mayor sueldo");
+	else
+		printf("\nLa persona de mayor edad no tiene el mayor sueldo");
 
 	printf("\n");
 
